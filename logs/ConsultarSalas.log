@@ -1,0 +1,39 @@
+[DEBUG] 2022-03-03 04:54:31 (ConsultarSalas.java:consultarDisponibilidad:16)
+
+[ INFO] 2022-03-03 04:54:33 (ConsultarSalas.java:consultarDisponibilidad:32)
+
+[DEBUG] 2022-03-03 04:54:35 (ConsultarSalas.java:consultarDisponibilidad:42)
+
+[ INFO] 2022-03-03 04:54:35 (ConsultarSalas.java:consultarDisponibilidad:46)
+
+[DEBUG] 2022-03-03 04:57:26 (ConsultarSalas.java:consultarDisponibilidad:16)
+
+[ INFO] 2022-03-03 04:57:27 (ConsultarSalas.java:consultarDisponibilidad:32)
+
+[DEBUG] 2022-03-03 04:57:32 (ConsultarSalas.java:consultarDisponibilidad:42)
+
+[ INFO] 2022-03-03 04:57:32 (ConsultarSalas.java:consultarDisponibilidad:46)
+
+[DEBUG] 2022-03-03 05:14:10 (ConsultarSalas.java:consultarDisponibilidad:16)
+
+[ INFO] 2022-03-03 05:14:12 (ConsultarSalas.java:consultarDisponibilidad:32)
+
+[DEBUG] 2022-03-03 05:14:16 (ConsultarSalas.java:consultarDisponibilidad:42)
+
+[ INFO] 2022-03-03 05:14:16 (ConsultarSalas.java:consultarDisponibilidad:46)
+
+[DEBUG] 2022-03-03 05:14:26 (ConsultarSalas.java:consultarDisponibilidad:16)
+
+[ INFO] 2022-03-03 05:14:30 (ConsultarSalas.java:consultarDisponibilidad:32)
+
+[DEBUG] 2022-03-03 05:14:34 (ConsultarSalas.java:consultarDisponibilidad:42)
+
+[ WARN] 2022-03-03 05:14:34 (ConsultarSalas.java:consultarDisponibilidad:52)
+
+[DEBUG] 2022-03-03 05:16:19 (ConsultarSalas.java:consultarDisponibilidad:16)Se ha iniciado el proceso de consulta
+[ INFO] 2022-03-03 05:16:24 (ConsultarSalas.java:consultarDisponibilidad:32)Se ha escogido la opción 5
+[FATAL] 2022-03-03 05:16:24 (ConsultarSalas.java:consultarDisponibilidad:95)Se he ingresado una letra, no un número de opción
+[DEBUG] 2022-03-03 05:17:57 (ConsultarSalas.java:consultarDisponibilidad:16)Se ha iniciado el proceso de consulta
+[ INFO] 2022-03-03 05:17:59 (ConsultarSalas.java:consultarDisponibilidad:32)Se ha escogido la opción 2
+[DEBUG] 2022-03-03 05:18:02 (ConsultarSalas.java:consultarDisponibilidad:59)Se ha ingresado a los datos de la Sala 3D
+[ERROR] 2022-03-03 05:18:02 (ConsultarSalas.java:consultarDisponibilidad:66)No se han podido reservar los asientos en la sala 3D por falta de disponibilidad
